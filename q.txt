@@ -10,7 +10,6 @@ Fogalmazza meg a lokális szélsőérték szükséges feltételét! Példán ker
 Fogalmazza meg a monotonítás elegendő feltételét!
 Fogalmazza meg a Rendőr-elvet!
 Fogalmazza meg a Riemann-integrál linearitására vonatkozó tételt!
-Fogalmazza meg a Riemann-integrál linearitására vonatkozó tételt!
 Fogalmazza meg az összehasonlító kritériumot sorokra!
 Igaz-e, hogy ha egy valós számsorozat korlátos, akkor konvergens is? (Indokolja, mutasson példát!)
 Írja a pontbeli differenciahányados definícióját!
@@ -36,5 +35,6 @@ Mit értünk nyílt és zárt számhalmaz alatt?
 Mit nevezünk egy hatványsor konvergenciasugarának?
 Mondja ki a Bolzano-féle középérték tételt!
 Mondja ki a Cauchy--Hadamard tételt!
-Mondja ki a Taylor-tételt!
 Mondja ki a l'Hospital-szabályt!
+Mondja ki a Rolle-tételt!
+Mondja ki a Taylor-tételt!
