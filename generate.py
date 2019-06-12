@@ -28,7 +28,7 @@ def gen_exam(q):
 
     r = random.sample(q, 16)
     for l in r:
-        main += str('\item ' + l + '\n')
+        main += str('\\item ' + l + '\n')
 
     content = header + main + footer
 
