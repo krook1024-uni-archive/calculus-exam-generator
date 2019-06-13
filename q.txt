@@ -6,7 +6,10 @@ Definiálja az exponenciális függvényt!
 Definíció alapján mutassa meg, hogy az $x^2$ függvény minden $x$ eleme $R$ pontban differenciálható!
 Fogalmazza meg a Cauchy-féle gyökkritériumot!
 Fogalmazza meg a Cauchy-féle konvergenciakritériumot valós számsorozatokra!
+Fogalmazza meg a Cauchy-féle ritkítási kritériumot valós számsorokra!
+Fogalmazza meg a D'Alambert-féle hányadoskritériumot valós számsorokra!
 Fogalmazza meg a folytonosság és műveletek kapcsolatára vonatkozó állítást!
+Fogalmazza meg a Leibniz-kritériumot alternáló sorokra!
 Fogalmazza meg a lokális szélsőérték szükséges feltételét! Példán keresztül mutassa meg, hogy ez a feltétel nem elégséges!
 Fogalmazza meg a monotonítás elegendő feltételét!
 Fogalmazza meg a Rendőr-elvet!
