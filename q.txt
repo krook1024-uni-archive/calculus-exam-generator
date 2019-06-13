@@ -1,24 +1,25 @@
+Adja meg a $\log, \cos, \sin, \tanh$ függvények primitív függvényeit!
+Adja meg a $\sin, \cos, \tan, \exp$ függvények derivált függvényeit!
 Definiálja a cosinus függvényt!
 Definiálja a sinus függvényt!
 Definiálja az exponenciális függvényt!
 Definíció alapján mutassa meg, hogy az $x^2$ függvény minden $x$ eleme $R$ pontban differenciálható!
 Fogalmazza meg a Cauchy-féle gyökkritériumot!
-Fogalmazza meg a Cauchy-féle konvergenciakritériumot valós sorokra!
 Fogalmazza meg a Cauchy-féle konvergenciakritériumot valós számsorozatokra!
 Fogalmazza meg a folytonosság és műveletek kapcsolatára vonatkozó állítást!
-Fogalmazza meg a lokális szélsőérték szükséges feltételét! Példán keresztül mutassa meg, hogy ez a feltétel nem elégséges.
+Fogalmazza meg a lokális szélsőérték szükséges feltételét! Példán keresztül mutassa meg, hogy ez a feltétel nem elégséges!
 Fogalmazza meg a monotonítás elegendő feltételét!
 Fogalmazza meg a Rendőr-elvet!
 Fogalmazza meg a Riemann-integrál linearitására vonatkozó tételt!
 Fogalmazza meg az összehasonlító kritériumot sorokra!
 Igaz-e, hogy ha egy valós számsorozat korlátos, akkor konvergens is? (Indokolja, mutasson példát!)
 Írja a pontbeli differenciahányados definícióját!
-Írja le a Cauchy-féle gyökkritériumot sorokra.
-Írja le a differenciálhatóság és folytonosság kapcsolatára vonatkozó állítást.
+Írja le a Cauchy-féle gyökkritériumot sorokra!
+Írja le a differenciálhatóság és folytonosság kapcsolatára vonatkozó állítást!
 Írja le a folytonosság és műveletek kapcsolatára vonatkozó tételt!
 Írja le a forgástestek térfogatára vonatkozó képletet!
 Írja le a lokális szélsőérték elégséges feltételét!
-Írja le a Newton--Leibniz formulát.
+Írja le a Newton--Leibniz formulát!
 Írja le a parciális integrálás tételét határozatlan integrál esetén!
 Írja le a parciális integrálás tételét Riemann-integrál esetén!
 Írja le az összetett függvény differenciálásra vonatkozó tételt!
@@ -30,11 +31,17 @@ Mikor nevezünk egy valós függvényt differenciálhatónak egy $x_0$ pontban?
 Mikor nevezünk egy valós számsorozatot konvergensnek?
 Mikor nevezünk egy valós számsorozatot korlátosnak?
 Mit értünk alsó és felső Darboux-integrál alatt?
+Mit értünk egy $D$ halmaz torlódási pontján?
+Mit értünk egy $x_0$ pont $r$ sugarú nyílt, illetve zárt környezetén?
+Mit értünk egy folytonos függvény alatt?
 Mit értünk inflexiós pont alatt?
 Mit értünk nyílt és zárt számhalmaz alatt?
+Mit nevezünk bővített valós számnak?
 Mit nevezünk egy hatványsor konvergenciasugarának?
 Mondja ki a Bolzano-féle középérték tételt!
 Mondja ki a Cauchy--Hadamard tételt!
+Mondja ki a Heine--Borel-tételt!
 Mondja ki a l'Hospital-szabályt!
 Mondja ki a Rolle-tételt!
 Mondja ki a Taylor-tételt!
+Mondja ki az integrálszámítás alaptételét!
