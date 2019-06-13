@@ -38,8 +38,10 @@ def gen_exam(q):
     with open(texname, 'w') as f:
         f.write(content)
 
-    commandLine = subprocess.Popen(['pdflatex', texname])
+    commandLine = subprocess.Popen(['pdflatex', texname], stdout=open(os.devnull, 'wb'))
     commandLine.communicate()
+
+    print(randname + ".pdf létrehozva!")
 
     os.unlink(randname + ".aux")
     os.unlink(randname + ".log")
