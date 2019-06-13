@@ -24,6 +24,7 @@ Igaz-e, hogy ha egy valós számsorozat korlátos, akkor konvergens is? (Indokol
 Írja le az összetett függvény differenciálásra vonatkozó tételt!
 Létezik-e olyan korlátos valós számsorozat, amelynek nem létezik konvergens részsorozata? (Hozzon példát vagy hivatkozzon egy tételre!)
 Mi az inflexiós pont elégséges illetve szükséges feltétele?
+Mikor mondjuk, hogy egy függvény $n$-szer differenciálható? ($n=2,3,...$)
 Mikor mondjuk hogy egy valós számsorozat konvergens?
 Mikor monoton egy valós számsorozat?
 Mikor nevezünk egy valós függvényt differenciálhatónak egy $x_0$ pontban?
