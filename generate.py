@@ -18,6 +18,7 @@ def gen_exam(q):
     \setlength{\parindent}{0em}
     \title{Kalkulus mintavizsga}
     \date{\today}
+    \pagenumbering{gobble}
     \begin{document}
     \maketitle
     \begin{enumerate}
