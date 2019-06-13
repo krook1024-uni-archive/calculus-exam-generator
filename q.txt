@@ -14,7 +14,6 @@ Fogalmazza meg a Riemann-integrál linearitására vonatkozó tételt!
 Fogalmazza meg az összehasonlító kritériumot sorokra!
 Igaz-e, hogy ha egy valós számsorozat korlátos, akkor konvergens is? (Indokolja, mutasson példát!)
 Írja a pontbeli differenciahányados definícióját!
-Írja le a Cauchy-féle gyökkritériumot sorokra!
 Írja le a differenciálhatóság és folytonosság kapcsolatára vonatkozó állítást!
 Írja le a folytonosság és műveletek kapcsolatára vonatkozó tételt!
 Írja le a forgástestek térfogatára vonatkozó képletet!
@@ -28,7 +27,6 @@ Mi az inflexiós pont elégséges illetve szükséges feltétele?
 Mikor mondjuk hogy egy valós számsorozat konvergens?
 Mikor monoton egy valós számsorozat?
 Mikor nevezünk egy valós függvényt differenciálhatónak egy $x_0$ pontban?
-Mikor nevezünk egy valós számsorozatot konvergensnek?
 Mikor nevezünk egy valós számsorozatot korlátosnak?
 Mit értünk alsó és felső Darboux-integrál alatt?
 Mit értünk egy $D$ halmaz torlódási pontján?
