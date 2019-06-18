@@ -22,7 +22,9 @@ def gen_exam(q, n): # q is the array that holds the questions and n is the numbe
     \pagenumbering{gobble}
     \begin{document}
     \maketitle
+    \begin{center}\Large\textsc{Feladatok}\end{center}
     \begin{enumerate}
+        \setlength\itemsep{0em}
     '''
     main = ''
     footer = r'''\end{enumerate}
