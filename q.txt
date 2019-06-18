@@ -1,7 +1,12 @@
 Adja meg a $\log, \cos, \sin, \tanh$ függvények primitív függvényeit!
 Adja meg a $\sin, \cos, \tan, \exp$ függvények derivált függvényeit!
+Adja meg a differenciálhatóság és a műveletek kapcsolatáról szóló állítást!
+Adja meg a Lagrange-féle középértéktételt!
+Adja meg a Riemann-féle átrendezési tételt sorokra!
 Definiálja a cosinus függvényt!
 Definiálja a sinus függvényt!
+Definiálja az $e$ számot!
+Definiálja az $\ln$ függvényt és adja meg a differenciálhatósági és monotonitási tulajdonságait!
 Definiálja az exponenciális függvényt!
 Definíció alapján mutassa meg, hogy az $x^2$ függvény minden $x$ eleme $R$ pontban differenciálható!
 Fogalmazza meg a Cauchy-féle gyökkritériumot!
@@ -9,11 +14,13 @@ Fogalmazza meg a Cauchy-féle konvergenciakritériumot valós számsorozatokra!
 Fogalmazza meg a Cauchy-féle ritkítási kritériumot valós számsorokra!
 Fogalmazza meg a D'Alambert-féle hányadoskritériumot valós számsorokra!
 Fogalmazza meg a folytonosság és műveletek kapcsolatára vonatkozó állítást!
+Fogalmazza meg a helyettesítéses integrálás tételét!
 Fogalmazza meg a Leibniz-kritériumot alternáló sorokra!
 Fogalmazza meg a lokális szélsőérték szükséges feltételét! Példán keresztül mutassa meg, hogy ez a feltétel nem elégséges!
 Fogalmazza meg a monotonítás elegendő feltételét!
 Fogalmazza meg a Rendőr-elvet!
 Fogalmazza meg a Riemann-integrál linearitására vonatkozó tételt!
+Fogalmazza meg a valós függvénysorok abszolút konvergenciájára vonatkozó Cauchy-kritériumot.
 Fogalmazza meg az összehasonlító kritériumot sorokra!
 Igaz-e, hogy ha egy valós számsorozat korlátos, akkor konvergens is? (Indokolja, mutasson példát!)
 Írja a pontbeli differenciahányados definícióját!
@@ -27,23 +34,31 @@ Igaz-e, hogy ha egy valós számsorozat korlátos, akkor konvergens is? (Indokol
 Írja le az összetett függvény differenciálásra vonatkozó tételt!
 Létezik-e olyan korlátos valós számsorozat, amelynek nem létezik konvergens részsorozata? (Hozzon példát vagy hivatkozzon egy tételre!)
 Mi az inflexiós pont elégséges illetve szükséges feltétele?
+Mikor folytonos egy valós függvény?
 Mikor mondjuk, hogy egy függvény $n$-szer differenciálható? ($n=2,3,...$)
 Mikor mondjuk hogy egy valós számsorozat konvergens?
 Mikor monoton egy valós számsorozat?
 Mikor nevezünk egy valós függvényt differenciálhatónak egy $x_0$ pontban?
 Mikor nevezünk egy valós számsorozatot korlátosnak?
+Mit állít az improprius integrálokra vonatkozó összehasonlító kritérium?
+Mit állít Weierstrass approximációs tétele?
 Mit értünk alsó és felső Darboux-integrál alatt?
+Mit értünk alsó és felső integrálközelítő összegen?
 Mit értünk egy $D$ halmaz torlódási pontján?
 Mit értünk egy $x_0$ pont $r$ sugarú nyílt, illetve zárt környezetén?
-Mit értünk egy folytonos függvény alatt?
+Mit értünk egy valós függvény $+\infty$-beli határértékén?
 Mit értünk inflexiós pont alatt?
 Mit értünk nyílt és zárt számhalmaz alatt?
+Mit jelent az, hogy egy valós függvlny egyenletes folytonos egy halmazon?
+Mit jelent egy valós számhalmaz nyílt lefedése?
 Mit nevezünk bővített valós számnak?
 Mit nevezünk egy hatványsor konvergenciasugarának?
 Mondja ki a Bolzano-féle középérték tételt!
 Mondja ki a Cauchy--Hadamard tételt!
 Mondja ki a Heine--Borel-tételt!
+Mondja ki a jeltartás tételét sorozatokra!
 Mondja ki a l'Hospital-szabályt!
 Mondja ki a Rolle-tételt!
 Mondja ki a Taylor-tételt!
 Mondja ki az integrálszámítás alaptételét!
+Mondja ki az inverz függvény differenciálhatóságára vonatkozó tételt!
