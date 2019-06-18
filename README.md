@@ -12,5 +12,5 @@ A [doc/example](doc/example) mappában található néhány példa.
 ## Használat
 
 ```
-python3 generate.py
+# python3 generate.py [opcionális: kérdések száma a dolgozatban]
 ```
