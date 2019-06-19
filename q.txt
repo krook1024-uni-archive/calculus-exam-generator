@@ -4,7 +4,9 @@ Adja meg a differenciálhatóság és a műveletek kapcsolatáról szóló áll�
 Adja meg a Lagrange-féle középértéktételt!
 Adja meg a Riemann-féle átrendezési tételt sorokra!
 Definiálja a cosinus függvényt!
+Definiálja a cosinus hiperbolicus függvényt!
 Definiálja a sinus függvényt!
+Definiálja a sinus hiperbolicus függvényt!
 Definiálja az $e$ számot!
 Definiálja az $\ln$ függvényt és adja meg a differenciálhatósági és monotonitási tulajdonságait!
 Definiálja az exponenciális függvényt!
@@ -17,7 +19,6 @@ Fogalmazza meg a folytonosság és műveletek kapcsolatára vonatkozó állítá
 Fogalmazza meg a helyettesítéses integrálás tételét!
 Fogalmazza meg a Leibniz-kritériumot alternáló sorokra!
 Fogalmazza meg a lokális szélsőérték szükséges feltételét! Példán keresztül mutassa meg, hogy ez a feltétel nem elégséges!
-Fogalmazza meg a monotonítás elegendő feltételét!
 Fogalmazza meg a Rendőr-elvet!
 Fogalmazza meg a Riemann-integrál linearitására vonatkozó tételt!
 Fogalmazza meg a valós függvénysorok abszolút konvergenciájára vonatkozó Cauchy-kritériumot.
@@ -38,6 +39,7 @@ Mikor folytonos egy valós függvény?
 Mikor mondjuk, hogy egy függvény $n$-szer differenciálható? ($n=2,3,...$)
 Mikor mondjuk hogy egy valós számsorozat konvergens?
 Mikor monoton egy valós számsorozat?
+Mikor monoton egy $f$ függvény?
 Mikor nevezünk egy valós függvényt differenciálhatónak egy $x_0$ pontban?
 Mikor nevezünk egy valós számsorozatot korlátosnak?
 Mit állít az improprius integrálokra vonatkozó összehasonlító kritérium?
@@ -49,11 +51,12 @@ Mit értünk egy $x_0$ pont $r$ sugarú nyílt, illetve zárt környezetén?
 Mit értünk egy valós függvény $+\infty$-beli határértékén?
 Mit értünk inflexiós pont alatt?
 Mit értünk nyílt és zárt számhalmaz alatt?
-Mit jelent az, hogy egy valós függvlny egyenletes folytonos egy halmazon?
+Mit jelent az, hogy egy valós függvény egyenletes folytonos egy halmazon?
 Mit jelent egy valós számhalmaz nyílt lefedése?
 Mit nevezünk bővített valós számnak?
 Mit nevezünk egy hatványsor konvergenciasugarának?
-Mondja ki a Bolzano-féle középérték tételt!
+Mondja ki a Bolzano-féle középértéktételt!
+Mondja ki a Darboux-féle középértéktételt!
 Mondja ki a Cauchy--Hadamard tételt!
 Mondja ki a Heine--Borel-tételt!
 Mondja ki a jeltartás tételét sorozatokra!
@@ -62,3 +65,21 @@ Mondja ki a Rolle-tételt!
 Mondja ki a Taylor-tételt!
 Mondja ki az integrálszámítás alaptételét!
 Mondja ki az inverz függvény differenciálhatóságára vonatkozó tételt!
+Mit jelent, hogy egy $f$ függvény lineárisan approximálható?
+Igaz-e, hogy ha egy függvény differenciálható egy $x_0$ pontban akkor itt lineárisan approximálható is?
+Írja le az összetett függvény differenciálási szabályát!
+Írja le a hatványsorok differenciálhatóságára vonatkozó tételt!
+Mikor mondjuk, hogy egy függvény konvex?
+Mikor mondjuk, hogy egy függvény konkáv?
+Mit jelent, hogy az $f$ valós függvény racionális törtfüggvény?
+Mit értünk egy halmaz vagy intervallum felosztásán?
+Mikor mondjuk, hogy egy függvény Riemann-integrálható?
+Mi az oszcillációs kritérium Riemann-integrál esetén?
+Igaz-e, hogy ha egy függvény folytonos, akkor Riemann-integrálható?
+Igaz-e, hogy ha egy függvény monoton, akkor Riemann-integrálható?
+Mondja ki a Riemann-integrálra vonatkozó középértéktételt!
+Mit jelent, hogy egy függvény $p$ szerint periodikus?
+Mikor mondjuk, hogy egy függvénysorozat konvergens?
+Mit értünk első-, illetve másodfajú szakadás alatt?
+Írja le a határértékek és folytonosság kapcsolatára vonatkozó tételt!
+Mit értünk egy valós számsorozat torlódási pontján?
