@@ -21,7 +21,7 @@ Fogalmazza meg a Leibniz-kritériumot alternáló sorokra!
 Fogalmazza meg a lokális szélsőérték szükséges feltételét! Példán keresztül mutassa meg, hogy ez a feltétel nem elégséges!
 Fogalmazza meg a Rendőr-elvet!
 Fogalmazza meg a Riemann-integrál linearitására vonatkozó tételt!
-Fogalmazza meg a valós függvénysorok abszolút konvergenciájára vonatkozó Cauchy-kritériumot.
+Fogalmazza meg a valós függvénysorok abszolút konvergenciájára vonatkozó Cauchy-kritériumot!
 Fogalmazza meg az összehasonlító kritériumot sorokra!
 Igaz-e, hogy ha egy valós számsorozat korlátos, akkor konvergens is? (Indokolja, mutasson példát!)
 Írja a pontbeli differenciahányados definícióját!
