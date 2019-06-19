@@ -23,23 +23,34 @@ Fogalmazza meg a Rendőr-elvet!
 Fogalmazza meg a Riemann-integrál linearitására vonatkozó tételt!
 Fogalmazza meg a valós függvénysorok abszolút konvergenciájára vonatkozó Cauchy-kritériumot!
 Fogalmazza meg az összehasonlító kritériumot sorokra!
+Igaz-e, hogy ha egy függvény differenciálható egy $x_0$ pontban akkor itt lineárisan approximálható is?
+Igaz-e, hogy ha egy függvény folytonos, akkor Riemann-integrálható?
+Igaz-e, hogy ha egy függvény monoton, akkor Riemann-integrálható?
 Igaz-e, hogy ha egy valós számsorozat korlátos, akkor konvergens is? (Indokolja, mutasson példát!)
 Írja a pontbeli differenciahányados definícióját!
 Írja le a differenciálhatóság és folytonosság kapcsolatára vonatkozó állítást!
 Írja le a folytonosság és műveletek kapcsolatára vonatkozó tételt!
 Írja le a forgástestek térfogatára vonatkozó képletet!
+Írja le a határértékek és folytonosság kapcsolatára vonatkozó tételt!
+Írja le a hatványsorok differenciálhatóságára vonatkozó tételt!
 Írja le a lokális szélsőérték elégséges feltételét!
 Írja le a Newton--Leibniz formulát!
 Írja le a parciális integrálás tételét határozatlan integrál esetén!
 Írja le a parciális integrálás tételét Riemann-integrál esetén!
+Írja le az összetett függvény differenciálási szabályát!
 Írja le az összetett függvény differenciálásra vonatkozó tételt!
 Létezik-e olyan korlátos valós számsorozat, amelynek nem létezik konvergens részsorozata? (Hozzon példát vagy hivatkozzon egy tételre!)
 Mi az inflexiós pont elégséges illetve szükséges feltétele?
+Mi az oszcillációs kritérium Riemann-integrál esetén?
 Mikor folytonos egy valós függvény?
 Mikor mondjuk, hogy egy függvény $n$-szer differenciálható? ($n=2,3,...$)
+Mikor mondjuk, hogy egy függvény konkáv?
+Mikor mondjuk, hogy egy függvény konvex?
+Mikor mondjuk, hogy egy függvény Riemann-integrálható?
+Mikor mondjuk, hogy egy függvénysorozat konvergens?
 Mikor mondjuk hogy egy valós számsorozat konvergens?
-Mikor monoton egy valós számsorozat?
 Mikor monoton egy $f$ függvény?
+Mikor monoton egy valós számsorozat?
 Mikor nevezünk egy valós függvényt differenciálhatónak egy $x_0$ pontban?
 Mikor nevezünk egy valós számsorozatot korlátosnak?
 Mit állít az improprius integrálokra vonatkozó összehasonlító kritérium?
@@ -48,38 +59,27 @@ Mit értünk alsó és felső Darboux-integrál alatt?
 Mit értünk alsó és felső integrálközelítő összegen?
 Mit értünk egy $D$ halmaz torlódási pontján?
 Mit értünk egy $x_0$ pont $r$ sugarú nyílt, illetve zárt környezetén?
+Mit értünk egy halmaz vagy intervallum felosztásán?
 Mit értünk egy valós függvény $+\infty$-beli határértékén?
+Mit értünk egy valós számsorozat torlódási pontján?
+Mit értünk első-, illetve másodfajú szakadás alatt?
 Mit értünk inflexiós pont alatt?
 Mit értünk nyílt és zárt számhalmaz alatt?
-Mit jelent az, hogy egy valós függvény egyenletes folytonos egy halmazon?
+Mit jelent az, hogy egy valós függvény egyenletesen folytonos egy halmazon?
 Mit jelent egy valós számhalmaz nyílt lefedése?
+Mit jelent, hogy az $f$ valós függvény racionális törtfüggvény?
+Mit jelent, hogy egy $f$ függvény lineárisan approximálható?
+Mit jelent, hogy egy függvény $p$ szerint periodikus?
 Mit nevezünk bővített valós számnak?
 Mit nevezünk egy hatványsor konvergenciasugarának?
 Mondja ki a Bolzano-féle középértéktételt!
-Mondja ki a Darboux-féle középértéktételt!
 Mondja ki a Cauchy--Hadamard tételt!
+Mondja ki a Darboux-féle középértéktételt!
 Mondja ki a Heine--Borel-tételt!
 Mondja ki a jeltartás tételét sorozatokra!
 Mondja ki a l'Hospital-szabályt!
+Mondja ki a Riemann-integrálra vonatkozó középértéktételt!
 Mondja ki a Rolle-tételt!
 Mondja ki a Taylor-tételt!
 Mondja ki az integrálszámítás alaptételét!
 Mondja ki az inverz függvény differenciálhatóságára vonatkozó tételt!
-Mit jelent, hogy egy $f$ függvény lineárisan approximálható?
-Igaz-e, hogy ha egy függvény differenciálható egy $x_0$ pontban akkor itt lineárisan approximálható is?
-Írja le az összetett függvény differenciálási szabályát!
-Írja le a hatványsorok differenciálhatóságára vonatkozó tételt!
-Mikor mondjuk, hogy egy függvény konvex?
-Mikor mondjuk, hogy egy függvény konkáv?
-Mit jelent, hogy az $f$ valós függvény racionális törtfüggvény?
-Mit értünk egy halmaz vagy intervallum felosztásán?
-Mikor mondjuk, hogy egy függvény Riemann-integrálható?
-Mi az oszcillációs kritérium Riemann-integrál esetén?
-Igaz-e, hogy ha egy függvény folytonos, akkor Riemann-integrálható?
-Igaz-e, hogy ha egy függvény monoton, akkor Riemann-integrálható?
-Mondja ki a Riemann-integrálra vonatkozó középértéktételt!
-Mit jelent, hogy egy függvény $p$ szerint periodikus?
-Mikor mondjuk, hogy egy függvénysorozat konvergens?
-Mit értünk első-, illetve másodfajú szakadás alatt?
-Írja le a határértékek és folytonosság kapcsolatára vonatkozó tételt!
-Mit értünk egy valós számsorozat torlódási pontján?
