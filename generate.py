@@ -65,7 +65,6 @@ def main():
         except:
             usage()
 
-
     with open("q.txt", "r") as f:
         for line in f:
             q.append(line)
