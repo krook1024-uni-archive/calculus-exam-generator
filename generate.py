@@ -16,13 +16,21 @@ def gen_exam(q, n): # q is the array that holds the questions and n is the numbe
     \usepackage[T1]{fontenc}
     \usepackage{enumerate}
     \usepackage{amsmath}
+
     \setlength{\parindent}{0em}
     \title{Kalkulus mintavizsga}
     \date{\today}
+
     \pagenumbering{gobble}
+
     \begin{document}
-    \maketitle
-    \begin{center}\Large\textsc{Feladatok}\end{center}
+
+    \begin{center}
+        \LARGE Kalkulus mintavizsga\\[1em]
+        \large\today\\[1em]
+        \Large\textsc{Feladatok}
+    \end{center}
+
     \begin{enumerate}
         \setlength\itemsep{0em}
     '''
@@ -32,7 +40,7 @@ def gen_exam(q, n): # q is the array that holds the questions and n is the numbe
 
     r = random.sample(q, n)
     for l in r:
-        main += str('\\item ' + l + '\n')
+        main += str(r'\item ' + l + '\n')
 
     content = header + main + footer
 

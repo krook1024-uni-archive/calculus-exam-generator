@@ -85,7 +85,7 @@ Mit értünk nyílt és zárt számhalmaz alatt?
 Mit jelent az, hogy egy valós függvény egyenletesen folytonos egy halmazon?
 Mit jelent egy valós számhalmaz nyílt lefedése?
 Mit jelent, hogy az $f$ valós függvény racionális törtfüggvény?
-Mit jelent, hogy az $f$ valós függvény \bfseries{valódi} racionális törtfüggvény?
+Mit jelent, hogy az $f$ valós függvény valódi racionális törtfüggvény?
 Mit jelent, hogy egy $f$ függvény lineárisan approximálható?
 Mit jelent, hogy egy függvény $p$ szerint periodikus?
 Mit jelent, hogy egy függvény balról differenciálható?
