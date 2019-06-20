@@ -69,8 +69,8 @@ def main():
         for line in f:
             q.append(line)
 
-    print(len(q), "kérdés betöltve!")
-    print(str(n) + " db kérdést tartalmazó dolgozat folyamatban...")
+    # print(len(q), "kérdés betöltve!")
+    # print(str(n) + " db kérdést tartalmazó dolgozat folyamatban...")
     gen_exam(q, n)
 
 main()
