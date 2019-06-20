@@ -34,7 +34,6 @@ Igaz-e, hogy ha egy valós számsorozat korlátos, akkor konvergens is? (Indokol
 Írja le a folytonosság és műveletek kapcsolatára vonatkozó tételt!
 Írja le a forgástestek térfogatára vonatkozó képletet!
 Írja le a határértékek és folytonosság kapcsolatára vonatkozó tételt!
-Írja le a hatványsorok differenciálhatóságára vonatkozó tételt!
 Írja le a lokális szélsőérték elégséges feltételét!
 Írja le a Newton--Leibniz formulát!
 Írja le a parciális integrálás tételét határozatlan integrál esetén!
@@ -51,6 +50,7 @@ Mikor konvergens egy függvénysorozat?
 Mikor mondjuk, hogy egy $D$ halmaz kompakt?
 Mikor mondjuk, hogy egy $D$ halmaz összefüggő?
 Mikor mondjuk, hogy egy függvény $n$-szer differenciálható? ($n=2,3,...$)
+Mikor mondjuk, hogy egy függvény akárhányszor differenciálható egy pontban?
 Mikor mondjuk, hogy egy függvény konkáv?
 Mikor mondjuk, hogy egy függvény konvex?
 Mikor mondjuk, hogy egy függvény Riemann-integrálható?
@@ -70,9 +70,9 @@ Mit értünk alsó és felső integrálközelítő összegen?
 Mit értünk egy $D$ halmaz izolált pontján?
 Mit értünk egy $D$ halmaz torlódási pontján?
 Mit értünk egy $x_0$ pont $r$ sugarú nyílt, illetve zárt környezetén?
+Mit értünk egy felosztás finomításán?
 Mit értünk egy függvénysorozat konvergenciahalmazán?
 Mit értünk egy halmaz vagy intervallum felosztásán?
-Mit értünk egy felosztás finomításán?
 Mit értünk egy valós függvény $\alpha$ pontbeli határértékén?
 Mit értünk egy valós függvény $+\infty$-beli határértékén?
 Mit értünk egy valós függvény $-\infty$-beli határértékén?
@@ -89,6 +89,7 @@ Mit jelent, hogy az $f$ valós függvény valódi racionális törtfüggvény?
 Mit jelent, hogy egy $f$ függvény lineárisan approximálható?
 Mit jelent, hogy egy függvény $p$ szerint periodikus?
 Mit jelent, hogy egy függvény balról differenciálható?
+Mit jelent, hogy egy függvény folytonosan differenciálható egy intervallumon?
 Mit jelent, hogy egy függvény jobbról differenciálható?
 Mit jelent, hogy egy valós sor abszolút konvergens?
 Mit mond ki a Cauchy-féle konvergenciakritérium függvénysorok pontonkéni konvergenciájára?
@@ -97,6 +98,7 @@ Mit nevezünk egy hatványsor konvergenciasugarának?
 Mondja ki a Bolzano-féle középértéktételt!
 Mondja ki a Cauchy--Hadamard tételt!
 Mondja ki a Darboux-féle középértéktételt!
+Mondja ki a hatványsorok differenciálhatóságára vonatkozó tételt!
 Mondja ki a Heine--Borel-tételt!
 Mondja ki a jeltartás tételét sorozatokra!
 Mondja ki a konvergencia és műveletek kapcsolatára vonatkozó tételt!
@@ -106,6 +108,3 @@ Mondja ki a Rolle-tételt!
 Mondja ki a Taylor-tételt!
 Mondja ki az integrálszámítás alaptételét!
 Mondja ki az inverz függvény differenciálhatóságára vonatkozó tételt!
-Mondja ki a hatványsorok differenciálhatóságára vonatkozó tételt!
-Mikor mondjuk, hogy egy függvény akárhányszor differenciálható egy pontban?
-Mit jelent, hogy egy függvény folytonosan differenciálható egy intervallumon?
