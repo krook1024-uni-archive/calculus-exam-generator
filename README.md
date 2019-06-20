@@ -2,7 +2,7 @@
 
 A `kalkulus-vizsga-gyak` egy egyszerű Python program ami egy megadott
 kérdéssorból véletlenszerűen állít össze egy Kalkulus vizsgadolgozatot.
-Jelenleg **több mint 80** kérdést tárol, melyek egy része már szerepelt
+Jelenleg **több mint 110** kérdést tárol, melyek egy része már szerepelt
 vizsgadolgozatban a 2018/9-es tanév során, a másik része pedig nagy
 valószínűséggel szerepelhet.
 
