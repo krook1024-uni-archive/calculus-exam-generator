@@ -11,10 +11,10 @@ hasonlítani, ezzel is azt az érzést keltve a felhasználóban, hogy vizsgán 
 részt éppen. A generált dolgozatokat ajánlatos kinyomtatni, és tollal,
 ceruzával kitölteni, hogy a valódi vizsgán minél sikeresebbek lehessünk.
 
-A program a [LaTeX](https://en.wikipedia.org/wiki/LaTeX) typesetting nyelven
-alapszik, ezáltal futtatásához **pdflatex** telepítése szükséges! Ez a legtöbb
-GNU/Linux disztribúció alatt egyszerűen megtehető, viszont léteznek
-Windows-binárisok is.
+A mintadolgozatok generálása a [LaTeX](https://en.wikipedia.org/wiki/LaTeX)
+typesetting nyelven alapszik, ezáltal futtatásához **pdflatex** telepítése
+szükséges! Ez a legtöbb GNU/Linux disztribúció alatt egyszerűen megtehető,
+viszont léteznek Windows-binárisok is.
 
 ## Példák
 
