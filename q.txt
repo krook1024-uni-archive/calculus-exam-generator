@@ -22,7 +22,7 @@ Fogalmazza meg a Leibniz-kritériumot alternáló sorokra!
 Fogalmazza meg a lokális szélsőérték szükséges feltételét! Példán keresztül mutassa meg, hogy ez a feltétel nem elégséges!
 Fogalmazza meg a Rendőr-elvet!
 Fogalmazza meg a Riemann-integrál linearitására vonatkozó tételt!
-Fogalmazza meg a valós függvénysorok abszolút konvergenciájára vonatkozó Cauchy-kritériumot!
+Fogalmazza meg a valós függvénysorok egyenletes konvergenciájára vonatkozó Cauchy-kritériumot!
 Fogalmazza meg az átviteli elvet valós függvények esetén!
 Fogalmazza meg az összehasonlító kritériumot sorokra!
 Igaz-e, hogy ha egy függvény differenciálható egy $x_0$ pontban akkor itt lineárisan approximálható is?
@@ -57,6 +57,7 @@ Mikor mondjuk, hogy egy függvény Riemann-integrálható?
 Mikor mondjuk, hogy egy függvénysorozat konvergens?
 Mikor mondjuk, hogy egy sorozat $+\infty$-hez divergál?
 Mikor mondjuk, hogy egy sorozat $-\infty$-hez divergál?
+Mikor mondjuk, hogy egy valós függvény $x_0$ pontbeli határértéke $\alpha$?
 Mikor mondjuk hogy egy valós számsorozat konvergens?
 Mikor monoton egy $f$ függvény?
 Mikor monoton egy valós számsorozat?
@@ -73,7 +74,6 @@ Mit értünk egy $x_0$ pont $r$ sugarú nyílt, illetve zárt környezetén?
 Mit értünk egy felosztás finomításán?
 Mit értünk egy függvénysorozat konvergenciahalmazán?
 Mit értünk egy halmaz vagy intervallum felosztásán?
-Mit értünk egy valós függvény $\alpha$ pontbeli határértékén?
 Mit értünk egy valós függvény $+\infty$-beli határértékén?
 Mit értünk egy valós függvény $-\infty$-beli határértékén?
 Mit értünk egy valós számsorozat részsorozatán?
