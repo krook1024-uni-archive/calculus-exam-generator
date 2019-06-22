@@ -25,6 +25,7 @@ class ExamGenerator:
         \usepackage[T1]{fontenc}
         \usepackage{enumerate}
         \usepackage{amsmath}
+        \usepackage{amssymb}
 
         \setlength{\parindent}{0em}
         \title{Kalkulus mintavizsga}
