@@ -23,5 +23,14 @@ A [doc/example](doc/example) mappában található néhány példa.
 ## Használat
 
 ```
-# python3 generate.py [opcionális: kérdések száma a dolgozatban]
+➜ ./generate.py -h
+usage: generate.py [-h] [-n N] [-q] [-s]
+
+Generate a Calculus sample test.
+
+optional arguments:
+  -h, --help        show this help message and exit
+  -n N, --number N  the number of questions in the test
+  -q, --quiet       quiet mode -- don't print anything
+  -s, --stats       show statistics in the generated test
 ```
