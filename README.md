@@ -22,9 +22,10 @@ A [doc/example](doc/example) mappában található néhány példa.
 
 ## Használat
 
+
 ```
 ➜ ./generate.py -h
-usage: generate.py [-h] [-n N] [-q] [-s]
+usage: generate.py [-h] [-n N] [-q] [-s] [-p]
 
 Generate a Calculus sample test.
 
@@ -33,4 +34,5 @@ optional arguments:
   -n N, --number N  the number of questions in the test
   -q, --quiet       quiet mode -- don't print anything
   -s, --stats       show statistics in the generated test
+  -p, --print       send the generated test to the printer
 ```
