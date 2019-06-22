@@ -73,7 +73,7 @@ Mit értünk egy $D$ halmaz torlódási pontján?
 Mit értünk egy $x_0$ pont $r$ sugarú nyílt, illetve zárt környezetén?
 Mit értünk egy felosztás finomításán?
 Mit értünk egy függvénysorozat konvergenciahalmazán?
-Mit értünk egy halmaz vagy intervallum felosztásán?
+Mit értünk egy intervallum $P$ felosztásán?
 Mit értünk egy valós függvény $+\infty$-beli határértékén?
 Mit értünk egy valós függvény $-\infty$-beli határértékén?
 Mit értünk egy valós számsorozat részsorozatán?
