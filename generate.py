@@ -1,89 +1,24 @@
 #!/usr/bin/env python3
 
-import random
-import os
-import glob
-import subprocess
-import datetime
-import sys
-import collections
-
-def gen_exam(q, n, c): # q is the array that holds the questions and n is the number how many questions we want in an exam
-    header = r'''
-    \documentclass{article}
-    \usepackage[a4paper, margin=2cm]{geometry}
-    \usepackage[magyar]{babel}
-    \usepackage[utf8]{inputenc}
-    \usepackage[T1]{fontenc}
-    \usepackage{enumerate}
-    \usepackage{amsmath}
-
-    \setlength{\parindent}{0em}
-    \title{Kalkulus mintavizsga}
-    \date{\today}
-
-    \pagenumbering{gobble}
-
-    \begin{document}
-
-    \begin{center}
-        \LARGE Kalkulus mintavizsga\\[1em]
-        \large\today\\[1em]
-        \Large\textsc{Feladatok}
-    \end{center}
-
-    \begin{enumerate}
-        \setlength\itemsep{0em}
-    '''
-    main = ''
-    footer = r'''\end{enumerate}
-    \end{document}'''
-
-    r = random.sample(q, n)
-    for l in r:
-        question = str(l[1])
-        category = str(l[0])
-
-        main += str(r'\item ' + question + '\n')
-
-        c[category] = c[category] + 1
-
-    print("A generált dokumentum feladatai a következő témakörökből valók:")
-    for i in collections.OrderedDict(c):
-        if c[i] > 0:
-            print("-", i + ":", c[i], "példa")
-
-    content = header + main + footer
-
-    randname = str(random.randint(1000, 9999))
-    texname = randname + ".tex"
-
-    with open(texname, 'w') as f:
-        f.write(content)
-
-    commandLine = subprocess.Popen(['pdflatex', texname], stdout=open(os.devnull, 'wb'))
-    commandLine.communicate()
-
-    print(randname + ".pdf létrehozva!")
-
-    os.unlink(randname + ".aux")
-    os.unlink(randname + ".log")
-    os.unlink(texname)
-
-def usage():
-    print("Használat: " + sys.argv[0] + " [kérdések száma]")
+import argparse
+import ExamGenerator as eg
 
 def main():
-    q = []
-    c = {}
+    q = [] # The questions-holding array
+    c = {} # The category-counting dict
+    n = 16 # The default number of exercises in the test
 
-    n = 16
+    # Command line argument handling
+    parser = argparse.ArgumentParser(description='Kalkulus mintavizsga dolgozat generálása.')
+    parser.add_argument('-n', type=int, dest='n', default=16, help='a kérdések száma a dolgozatban')
+    parser.add_argument('-q', '--quiet', dest='quiet', action='store_true', help='csendes üzemmód')
+    parser.add_argument('-s', '--stats', dest='stats', action='store_true', help='statisztika megjelenítése a generált dolgozatban is')
+    parser.set_defaults(quiet=False, stats=False)
 
-    if len(sys.argv) == 2:
-        try:
-            n = int(sys.argv[1])
-        except:
-            usage()
+    args = parser.parse_args()
+    n = args.n
+    stats = args.stats
+    quiet = args.quiet
 
     with open("q.txt", "r") as f:
         for line in f:
@@ -97,6 +32,8 @@ def main():
             if category not in c:
                 c[category] = 0
 
-    gen_exam(q, n, c)
+
+    gen = eg.ExamGenerator(q, n, c, quiet, stats)
+    gen.gen_exam()
 
 main()
