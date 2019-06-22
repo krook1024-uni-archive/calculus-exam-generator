@@ -10,10 +10,14 @@ def main():
 
     # Command line argument handling
     parser = argparse.ArgumentParser(description='Generate a Calculus sample test.')
-    parser.add_argument('-n', '--number', type=int, dest='n', default=16, help='the number of questions in the test')
-    parser.add_argument('-q', '--quiet', dest='quiet', action='store_true', help='quiet mode -- don\'t print anything')
-    parser.add_argument('-s', '--stats', dest='stats', action='store_true', help='show statistics in the generated test')
-    parser.add_argument('-p', '--print', dest='pprint', action='store_true', help='send the generated test to the printer')
+    parser.add_argument('-n', '--number', type=int, dest='n', default=16,
+            help='the number of questions in the test')
+    parser.add_argument('-q', '--quiet', dest='quiet', action='store_true',
+            help='quiet mode -- don\'t print anything')
+    parser.add_argument('-s', '--stats', dest='stats', action='store_true',
+            help='show statistics in the generated test')
+    parser.add_argument('-p', '--print', dest='pprint', action='store_true',
+            help='send the generated test to the printer')
     parser.set_defaults(quiet=False, stats=False, pprint=False)
 
     args = parser.parse_args()
