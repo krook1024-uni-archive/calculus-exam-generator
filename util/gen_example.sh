@@ -27,7 +27,7 @@ rename_examples() {
 # Amennyiben az util mappából hívjuk a szkriptet, úgy a szülő mappába szükséges átlépnünk a futtatás előtt.
 [[ "$PWD" =~ util ]] && cd ".."
 
-gen_example
 delete_examples
+gen_example
 move_examples
 rename_examples
