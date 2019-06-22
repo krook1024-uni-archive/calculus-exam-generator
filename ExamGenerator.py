@@ -44,7 +44,9 @@ class ExamGenerator:
             \setlength\itemsep{0em}
         '''
         main = ''
-        footer = r'''\end{enumerate}
+        prefooter = r'''\end{enumerate}
+        '''
+        footer = r'''
         \end{document}'''
 
         r = random.sample(self.q, self.n)
@@ -62,7 +64,17 @@ class ExamGenerator:
                 if self.c[i] > 0:
                     print("-", i + ":", self.c[i], "példa")
 
-        content = header + main + footer
+        stats_str = ""
+        if self.stats:
+            stats_str += r'''\footnotesize\textit{('''
+            for i in self.c.keys():
+                if self.c[i] > 0:
+                    stats_str += (i + ": " + str(self.c[i]) + ", ")
+            stats_str = stats_str[:-2]
+            stats_str += r''')}
+            '''
+
+        content = header + main + prefooter + stats_str + footer
 
         randname = str(random.randint(1000, 9999))
         texname = randname + ".tex"

@@ -3,7 +3,7 @@
 gen_example() {
 	for i in $(seq 1 5)
 	do
-		python3 ./generate.py
+		python3 ./generate.py -q -s
 	done
 }
 
