@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#generated !/usr/bin/env python3
 # The ExamGenerator class.
 
 import random
@@ -9,12 +9,13 @@ import datetime
 import sys
 
 class ExamGenerator:
-    def __init__(self, q, n, c, quiet, stats):
+    def __init__(self, q, n, c, quiet, stats, pprint):
         self.q = q
         self.n = n
         self.c = c
         self.quiet = quiet
         self.stats = stats
+        self.pprint = pprint
 
     def gen_exam(self):
         header = r'''
@@ -85,6 +86,11 @@ class ExamGenerator:
 
         commandLine = subprocess.Popen(['pdflatex', texname], stdout=open(os.devnull, 'wb'))
         commandLine.communicate()
+
+        if self.pprint:
+            commandLine = subprocess.Popen(['lpr', randname + '.pdf'])
+            commandLine.communicate()
+
 
         if not self.quiet:
             print(randname + ".pdf létrehozva!")

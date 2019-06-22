@@ -13,12 +13,14 @@ def main():
     parser.add_argument('-n', '--number', type=int, dest='n', default=16, help='the number of questions in the test')
     parser.add_argument('-q', '--quiet', dest='quiet', action='store_true', help='quiet mode -- don\'t print anything')
     parser.add_argument('-s', '--stats', dest='stats', action='store_true', help='show statistics in the generated test')
-    parser.set_defaults(quiet=False, stats=False)
+    parser.add_argument('-p', '--print', dest='pprint', action='store_true', help='send the generated test to the printer')
+    parser.set_defaults(quiet=False, stats=False, pprint=False)
 
     args = parser.parse_args()
     n = args.n
     stats = args.stats
     quiet = args.quiet
+    pprint = args.pprint
 
     with open("q.txt", "r") as f:
         for line in f:
@@ -33,7 +35,7 @@ def main():
                 c[category] = 0
 
 
-    gen = eg.ExamGenerator(q, n, c, quiet, stats)
+    gen = eg.ExamGenerator(q, n, c, quiet, stats, pprint)
     gen.gen_exam()
 
 main()
