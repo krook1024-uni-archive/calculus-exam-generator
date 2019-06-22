@@ -2,6 +2,7 @@ deriválás|Adja meg a $\sin, \cos, \tan, \exp$ függvények derivált függvén
 deriválás|Adja meg a differenciálhatóság és a műveletek kapcsolatáról szóló állítást!
 deriválás|Adja meg a Lagrange-féle középértéktételt!
 deriválás|Adja meg a Riemann-féle átrendezési tételt sorokra!
+deriválás|Definíció alapján mutassa meg, hogy az $x^2$ függvény minden $x$ eleme $R$ pontban differenciálható!
 deriválás|Igaz-e, hogy ha egy függvény differenciálható egy $x_0$ pontban akkor itt lineárisan approximálható is?
 deriválás|Írja a pontbeli differenciahányados definícióját!
 deriválás|Írja le a differenciálhatóság és folytonosság kapcsolatára vonatkozó állítást!
