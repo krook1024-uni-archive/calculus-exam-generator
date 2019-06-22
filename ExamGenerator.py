@@ -79,9 +79,3 @@ class ExamGenerator:
         os.unlink(randname + ".aux")
         os.unlink(randname + ".log")
         os.unlink(texname)
-
-    def usage(self):
-        print("Használat: " + sys.argv[0] + " [kérdések száma]")
-        print("Kapcsolók:")
-        print("--quiet - parancssori kimenet nélküli üzemmőd")
-        print("--stats - statisztikák beágyazása a generált dolgozatba")
