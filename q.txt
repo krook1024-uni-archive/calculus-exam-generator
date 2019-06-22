@@ -104,7 +104,7 @@ Mondja ki a jeltartás tételét sorozatokra!
 Mondja ki a konvergencia és műveletek kapcsolatára vonatkozó tételt!
 Mondja ki a l'Hospital-szabályt!
 Mondja ki a Riemann-integrálra vonatkozó középértéktételt!
-Mondja ki a Rolle-tételt!
-Mondja ki a Taylor-tételt!
+Mondja ki a Rolle-féle középértéktételt!
+Mondja ki a Taylor-féle középértéktételt!
 Mondja ki az integrálszámítás alaptételét!
 Mondja ki az inverz függvény differenciálhatóságára vonatkozó tételt!
