@@ -35,13 +35,18 @@ folytonosság|Írja le a folytonosság és műveletek kapcsolatára vonatkozó t
 folytonosság|Írja le a határértékek és folytonosság kapcsolatára vonatkozó tételt!
 folytonosság|Írja le az összetett függvény folytonosságára vonatkozó tételt!
 folytonosság|Mikor folytonos egy valós függvény?
-folytonosság|Mit értünk első-, illetve másodfajú szakadás alatt?
 folytonosság|Mit jelent az, hogy egy valós függvény egyenletesen folytonos egy halmazon?
+függvények határértéke|Írja le a függvények határértékének és folytonosságának a kapcsolatára vonatkozó tételt!
+függvények határértéke|Írja le a határérték és műveletek kapcsolatára vonatkozó tételt függvények esetén!
 függvények határértéke|Mikor mondjuk, hogy egy valós függvény $x_0$ pontbeli határértéke $\alpha$?
+függvények határértéke|Mit értünk egy függvény baloldali határértékén?
+függvények határértéke|Mit értünk egy függvény jobboldali határértékén?
 függvények határértéke|Mit értünk egy valós függvény $+\infty$-beli határértékén?
 függvények határértéke|Mit értünk egy valós függvény $-\infty$-beli határértékén?
+függvények határértéke|Mit értünk első-, illetve másodfajú szakadás alatt?
 függvénysorok|Fogalmazza meg a valós függvénysorok egyenletes konvergenciájára vonatkozó Cauchy-kritériumot!
 függvénysorok|Mikor konvergens egy függvénysor?
+függvénysorok|Mikor mondjuk, hogy egy függvénysor abszolút konvergens?
 függvénysorok|Mit állít a Weierstrass-kritérium függvénysorok egyenletes konvergenciájára?
 függvénysorok|Mit állít Weierstrass approximációs tétele?
 függvénysorok|Mit értünk egy függvénysorozat konvergenciahalmazán?
@@ -85,6 +90,8 @@ sorok|Fogalmazza meg a Cauchy-féle ritkítási kritériumot valós számsorokra
 sorok|Fogalmazza meg a D'Alambert-féle hányadoskritériumot valós számsorokra!
 sorok|Fogalmazza meg a Leibniz-kritériumot alternáló sorokra!
 sorok|Fogalmazza meg az összehasonlító kritériumot sorokra!
+sorok|Mit értünk egy sor átrendezésén?
+sorok|Mit értünk egy sor csoportosított során?
 sorok|Mit jelent, hogy egy valós sor abszolút konvergens?
 sorozatok|Fogalmazza meg a Cauchy-féle konvergenciakritériumot valós számsorozatokra!
 sorozatok|Fogalmazza meg a Rendőr-elvet!
