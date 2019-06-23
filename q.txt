@@ -1,25 +1,25 @@
-deriválás|Adja meg a $\sin, \cos, \tan, \exp$ függvények derivált függvényeit!
-deriválás|Adja meg a differenciálhatóság és a műveletek kapcsolatáról szóló állítást!
-deriválás|Adja meg a Lagrange-féle középértéktételt!
-deriválás|Adja meg a Riemann-féle átrendezési tételt sorokra!
-deriválás|Definíció alapján mutassa meg, hogy az $x^2$ függvény minden $x \in \mathbb{R}$ pontban differenciálható!
-deriválás|Igaz-e, hogy ha egy függvény differenciálható egy $x_0$ pontban akkor itt lineárisan approximálható is?
-deriválás|Írja a pontbeli differenciahányados definícióját!
-deriválás|Írja le a differenciálhatóság és folytonosság kapcsolatára vonatkozó állítást!
-deriválás|Írja le az összetett függvény differenciálási szabályát!
-deriválás|Írja le az összetett függvény differenciálásra vonatkozó tételt!
-deriválás|Mikor mondjuk, hogy egy függvény $n$-szer differenciálható? ($n=2,3,...$)
-deriválás|Mikor mondjuk, hogy egy függvény akárhányszor differenciálható egy pontban?
-deriválás|Mikor nevezünk egy valós függvényt differenciálhatónak egy $x_0$ pontban?
-deriválás|Mit jelent, hogy egy $f$ függvény lineárisan approximálható?
-deriválás|Mit jelent, hogy egy függvény balról differenciálható?
-deriválás|Mit jelent, hogy egy függvény folytonosan differenciálható egy intervallumon?
-deriválás|Mit jelent, hogy egy függvény jobbról differenciálható?
-deriválás|Mondja ki a l'Hospital-szabályt!
-deriválás|Mondja ki a Rolle-féle középértéktételt!
-deriválás|Mondja ki a Taylor-tételt!
-deriválás|Mondja ki az integrálszámítás alaptételét!
-deriválás|Mondja ki az inverz függvény differenciálhatóságára vonatkozó tételt!
+differenciálszámítás|Adja meg a $\sin, \cos, \tan, \exp$ függvények derivált függvényeit!
+differenciálszámítás|Adja meg a differenciálhatóság és a műveletek kapcsolatáról szóló állítást!
+differenciálszámítás|Adja meg a Lagrange-féle középértéktételt!
+differenciálszámítás|Adja meg a Riemann-féle átrendezési tételt sorokra!
+differenciálszámítás|Definíció alapján mutassa meg, hogy az $x^2$ függvény minden $x \in \mathbb{R}$ pontban differenciálható!
+differenciálszámítás|Igaz-e, hogy ha egy függvény differenciálható egy $x_0$ pontban akkor itt lineárisan approximálható is?
+differenciálszámítás|Írja a pontbeli differenciahányados definícióját!
+differenciálszámítás|Írja le a differenciálhatóság és folytonosság kapcsolatára vonatkozó állítást!
+differenciálszámítás|Írja le az összetett függvény differenciálási szabályát!
+differenciálszámítás|Írja le az összetett függvény differenciálásra vonatkozó tételt!
+differenciálszámítás|Mikor mondjuk, hogy egy függvény $n$-szer differenciálható? ($n=2,3,...$)
+differenciálszámítás|Mikor mondjuk, hogy egy függvény akárhányszor differenciálható egy pontban?
+differenciálszámítás|Mikor nevezünk egy valós függvényt differenciálhatónak egy $x_0$ pontban?
+differenciálszámítás|Mit jelent, hogy egy $f$ függvény lineárisan approximálható?
+differenciálszámítás|Mit jelent, hogy egy függvény balról differenciálható?
+differenciálszámítás|Mit jelent, hogy egy függvény folytonosan differenciálható egy intervallumon?
+differenciálszámítás|Mit jelent, hogy egy függvény jobbról differenciálható?
+differenciálszámítás|Mondja ki a l'Hospital-szabályt!
+differenciálszámítás|Mondja ki a Rolle-féle középértéktételt!
+differenciálszámítás|Mondja ki a Taylor-tételt!
+differenciálszámítás|Mondja ki az integrálszámítás alaptételét!
+differenciálszámítás|Mondja ki az inverz függvény differenciálhatóságára vonatkozó tételt!
 egyéb|Mit nevezünk bővített valós számnak?
 elemi függvények|Definiálja a cosinus függvényt!
 elemi függvények|Definiálja a cosinus hiperbolicus függvényt!
