@@ -17,16 +17,15 @@ deriválás|Mit jelent, hogy egy függvény folytonosan differenciálható egy i
 deriválás|Mit jelent, hogy egy függvény jobbról differenciálható?
 deriválás|Mondja ki a l'Hospital-szabályt!
 deriválás|Mondja ki a Rolle-féle középértéktételt!
-deriválás|Mondja ki a Taylor-féle középértéktételt!
+deriválás|Mondja ki a Taylor-tételt!
 deriválás|Mondja ki az integrálszámítás alaptételét!
 deriválás|Mondja ki az inverz függvény differenciálhatóságára vonatkozó tételt!
-egyéb|Mit állít Weierstrass approximációs tétele?
 egyéb|Mit nevezünk bővített valós számnak?
-egyéb|Mondja ki a konvergencia és műveletek kapcsolatára vonatkozó tételt!
 elemi függvények|Definiálja a cosinus függvényt!
 elemi függvények|Definiálja a cosinus hiperbolicus függvényt!
 elemi függvények|Definiálja a sinus függvényt!
 elemi függvények|Definiálja a sinus hiperbolicus függvényt!
+elemi függvények|Definiálja az $e$ számot!
 elemi függvények|Definiálja az $\ln$ függvényt és adja meg a differenciálhatósági és monotonitási tulajdonságait!
 elemi függvények|Definiálja az exponenciális függvényt!
 elemi függvények|Mit jelent, hogy egy függvény $p$ szerint periodikus?
@@ -44,6 +43,7 @@ függvények határértéke|Mit értünk egy valós függvény $-\infty$-beli ha
 függvénysorok|Fogalmazza meg a valós függvénysorok egyenletes konvergenciájára vonatkozó Cauchy-kritériumot!
 függvénysorok|Mikor konvergens egy függvénysor?
 függvénysorok|Mit állít a Weierstrass-kritérium függvénysorok egyenletes konvergenciájára?
+függvénysorok|Mit állít Weierstrass approximációs tétele?
 függvénysorok|Mit értünk egy függvénysorozat konvergenciahalmazán?
 függvénysorok|Mit mond ki a Cauchy-féle konvergenciakritérium függvénysorok pontonkéni konvergenciájára?
 függvénysorozatok|Mikor konvergens egy függvénysorozat?
@@ -57,31 +57,29 @@ függvényvizsgálat|Mikor monoton egy $f$ függvény?
 függvényvizsgálat|Mit értünk inflexiós pont alatt?
 függvényvizsgálat|Mondja ki a Bolzano-féle középértéktételt!
 függvényvizsgálat|Mondja ki a Darboux-féle középértéktételt!
-határérték|Definiálja az $e$ számot!
+határozatlan integrál|Adja meg a $\log, \cos, \sin, \tanh$ függvények primitív függvényeit!
+határozatlan integrál|Fogalmazza meg a helyettesítéses integrálás tételét határozatlan integrál esetén!
+határozatlan integrál|Írja le a Newton--Leibniz formulát!
+határozatlan integrál|Írja le a parciális integrálás tételét határozatlan integrál esetén!
+határozatlan integrál|Mit jelent, hogy az $f$ valós függvény racionális törtfüggvény?
+határozatlan integrál|Mit jelent, hogy az $f$ valós függvény valódi racionális törtfüggvény?
+határozatlan integrál|Mondja ki a Riemann-integrálra vonatkozó középértéktételt!
 hatványsorok|Mit nevezünk egy hatványsor konvergenciasugarának?
 hatványsorok|Mondja ki a Cauchy--Hadamard tételt!
 hatványsorok|Mondja ki a hatványsorok differenciálhatóságára vonatkozó tételt!
-integrálás|Adja meg a $\log, \cos, \sin, \tanh$ függvények primitív függvényeit!
-integrálás|Fogalmazza meg a helyettesítéses integrálás tételét határozatlan integrál esetén!
-integrálás|Fogalmazza meg a helyettesítéses integrálás tételét Riemann-integrál esetén!
-integrálás|Fogalmazza meg a Riemann-integrál linearitására vonatkozó tételt!
-integrálás|Igaz-e, hogy ha egy függvény folytonos, akkor Riemann-integrálható?
-integrálás|Igaz-e, hogy ha egy függvény monoton, akkor Riemann-integrálható?
-integrálás|Írja le a forgástestek térfogatára vonatkozó képletet!
-integrálás|Írja le a Newton--Leibniz formulát!
-integrálás|Írja le a parciális integrálás tételét határozatlan integrál esetén!
-integrálás|Írja le a parciális integrálás tételét Riemann-integrál esetén!
-integrálás|Mi az oszcillációs kritérium Riemann-integrál esetén?
-integrálás|Mikor mondjuk, hogy egy függvény Riemann-integrálható?
-integrálás|Mit állít az improprius integrálokra vonatkozó összehasonlító kritérium?
-integrálás|Mit értünk alsó és felső Darboux-integrál alatt?
-integrálás|Mit értünk alsó és felső integrálközelítő összegen?
-integrálás|Mit értünk egy felosztás finomításán?
-integrálás|Mit értünk egy intervallum $P$ felosztásán?
-integrálás|Mit jelent egy valós számhalmaz nyílt lefedése?
-integrálás|Mit jelent, hogy az $f$ valós függvény racionális törtfüggvény?
-integrálás|Mit jelent, hogy az $f$ valós függvény valódi racionális törtfüggvény?
-integrálás|Mondja ki a Riemann-integrálra vonatkozó középértéktételt!
+improprius integrál|Mit állít az improprius integrálokra vonatkozó összehasonlító kritérium?
+Riemann-integrál|Fogalmazza meg a helyettesítéses integrálás tételét Riemann-integrál esetén!
+Riemann-integrál|Fogalmazza meg a Riemann-integrál linearitására vonatkozó tételt!
+Riemann-integrál|Igaz-e, hogy ha egy függvény folytonos, akkor Riemann-integrálható?
+Riemann-integrál|Igaz-e, hogy ha egy függvény monoton, akkor Riemann-integrálható?
+Riemann-integrál|Írja le a forgástestek térfogatára vonatkozó képletet!
+Riemann-integrál|Írja le a parciális integrálás tételét Riemann-integrál esetén!
+Riemann-integrál|Mi az oszcillációs kritérium Riemann-integrál esetén?
+Riemann-integrál|Mikor mondjuk, hogy egy függvény Riemann-integrálható?
+Riemann-integrál|Mit értünk alsó és felső Darboux-integrál alatt?
+Riemann-integrál|Mit értünk alsó és felső integrálközelítő összegen?
+Riemann-integrál|Mit értünk egy felosztás finomításán?
+Riemann-integrál|Mit értünk egy intervallum $P$ felosztásán?
 sorok|Fogalmazza meg a Cauchy-féle gyökkritériumot!
 sorok|Fogalmazza meg a Cauchy-féle ritkítási kritériumot valós számsorokra!
 sorok|Fogalmazza meg a D'Alambert-féle hányadoskritériumot valós számsorokra!
@@ -100,6 +98,7 @@ sorozatok|Mikor nevezünk egy valós számsorozatot korlátosnak?
 sorozatok|Mit értünk egy valós számsorozat részsorozatán?
 sorozatok|Mit értünk geometriai sorozat alatt?
 sorozatok|Mondja ki a jeltartás tételét sorozatokra!
+sorozatok|Mondja ki a konvergencia és műveletek kapcsolatára vonatkozó tételt!
 topológia|Mikor mondjuk, hogy egy $D$ halmaz kompakt?
 topológia|Mikor mondjuk, hogy egy $D$ halmaz összefüggő?
 topológia|Mit értünk egy $D$ halmaz izolált pontján?
@@ -107,4 +106,5 @@ topológia|Mit értünk egy $D$ halmaz torlódási pontján?
 topológia|Mit értünk egy $x_0$ pont $r$ sugarú nyílt, illetve zárt környezetén?
 topológia|Mit értünk egy valós számsorozat torlódási pontján?
 topológia|Mit értünk nyílt és zárt számhalmaz alatt?
+topológia|Mit jelent egy valós számhalmaz nyílt lefedése?
 topológia|Mondja ki a Heine--Borel-tételt!
