@@ -61,8 +61,8 @@ class ExamGenerator:
             self.c[category] = self.c[category] + 1
 
         if not self.quiet:
-            print("A generált dokumentum feladatai a következő témakörökből
-                    valók:")
+            print("A generált dokumentum feladatai a következő témakörökből"
+                    "valók:")
             for i in self.c.keys():
                 if self.c[i] > 0:
                     print("-", i + ":", self.c[i], "példa")
