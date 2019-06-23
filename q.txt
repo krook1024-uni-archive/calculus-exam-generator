@@ -28,6 +28,7 @@ elemi függvények|Definiálja a sinus hiperbolicus függvényt!
 elemi függvények|Definiálja az $e$ számot!
 elemi függvények|Definiálja az $\ln$ függvényt és adja meg a differenciálhatósági és monotonitási tulajdonságait!
 elemi függvények|Definiálja az exponenciális függvényt!
+elemi függvények|Milyen kapcsolat van a hiperbolikus függvények és az exponenciális függvény között?
 elemi függvények|Mit jelent, hogy egy függvény $p$ szerint periodikus?
 folytonosság|Fogalmazza meg a folytonosság és műveletek kapcsolatára vonatkozó állítást!
 folytonosság|Fogalmazza meg az átviteli elvet valós függvények esetén!
@@ -64,6 +65,7 @@ függvényvizsgálat|Mondja ki a Bolzano-féle középértéktételt!
 függvényvizsgálat|Mondja ki a Darboux-féle középértéktételt!
 határozatlan integrál|Adja meg a $\log, \cos, \sin, \tanh$ függvények primitív függvényeit!
 határozatlan integrál|Fogalmazza meg a helyettesítéses integrálás tételét határozatlan integrál esetén!
+határozatlan integrál|Írja le a határozatlan integrál linearitására vonatkozó tételt!
 határozatlan integrál|Írja le a Newton--Leibniz formulát!
 határozatlan integrál|Írja le a parciális integrálás tételét határozatlan integrál esetén!
 határozatlan integrál|Mit jelent, hogy az $f$ valós függvény racionális törtfüggvény?
@@ -78,13 +80,15 @@ Riemann-integrál|Fogalmazza meg a Riemann-integrál linearitására vonatkozó 
 Riemann-integrál|Igaz-e, hogy ha egy függvény folytonos, akkor Riemann-integrálható?
 Riemann-integrál|Igaz-e, hogy ha egy függvény monoton, akkor Riemann-integrálható?
 Riemann-integrál|Írja le a forgástestek térfogatára vonatkozó képletet!
+Riemann-integrál|Írja le a görbék ívhosszára vonatkozó képletet!
 Riemann-integrál|Írja le a parciális integrálás tételét Riemann-integrál esetén!
-Riemann-integrál|Mi az oszcillációs kritérium Riemann-integrál esetén?
+Riemann-integrál|Írja le a síkidomok teürletére vonatkozó képletet!
 Riemann-integrál|Mikor mondjuk, hogy egy függvény Riemann-integrálható?
 Riemann-integrál|Mit értünk alsó és felső Darboux-integrál alatt?
 Riemann-integrál|Mit értünk alsó és felső integrálközelítő összegen?
 Riemann-integrál|Mit értünk egy felosztás finomításán?
 Riemann-integrál|Mit értünk egy intervallum $P$ felosztásán?
+Riemann-integrál|Mondja ki a függvények Riemann-integrálhatóságára vonatkozó oszcillációs kritériumot!
 sorok|Fogalmazza meg a Cauchy-féle gyökkritériumot!
 sorok|Fogalmazza meg a Cauchy-féle ritkítási kritériumot valós számsorokra!
 sorok|Fogalmazza meg a D'Alambert-féle hányadoskritériumot valós számsorokra!
