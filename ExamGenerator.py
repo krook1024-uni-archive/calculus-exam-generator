@@ -1,4 +1,4 @@
-#generated !/usr/bin/env python3
+#!/usr/bin/env python3
 # The ExamGenerator class.
 
 import random
@@ -92,7 +92,6 @@ class ExamGenerator:
         if self.pprint:
             commandLine = subprocess.Popen(['lpr', randname + '.pdf'])
             commandLine.communicate()
-
 
         if not self.quiet:
             print(randname + ".pdf létrehozva!")
