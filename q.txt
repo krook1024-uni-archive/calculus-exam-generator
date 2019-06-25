@@ -2,6 +2,7 @@ differenciálszámítás|Adja meg a $\sin, \cos, \tan, \exp$ függvények deriv�
 differenciálszámítás|Adja meg a differenciálhatóság és a műveletek kapcsolatáról szóló állítást!
 differenciálszámítás|Adja meg a Lagrange-féle középértéktételt!
 differenciálszámítás|Adja meg a Riemann-féle átrendezési tételt sorokra!
+differenciálszámítás|Adja meg az $x \mapsto x^a (x>0, a \in \mathbb{R}, x \mapsto a^x (x \in \mathbb{R}, a > 0)$, sinh és cosh függvényeket!
 differenciálszámítás|Definíció alapján mutassa meg, hogy az $x^2$ függvény minden $x \in \mathbb{R}$ pontban differenciálható!
 differenciálszámítás|Igaz-e, hogy ha egy függvény differenciálható egy $x_0$ pontban akkor itt lineárisan approximálható is?
 differenciálszámítás|Írja a pontbeli differenciahányados definícióját!
@@ -21,6 +22,7 @@ differenciálszámítás|Mondja ki a Taylor-tételt!
 differenciálszámítás|Mondja ki az integrálszámítás alaptételét!
 differenciálszámítás|Mondja ki az inverz függvény differenciálhatóságára vonatkozó tételt!
 egyéb|Mit nevezünk bővített valós számnak?
+elemi függvények|Adja meg a trigonometrikus függvényekre vonatkozó addíciós formulákat!
 elemi függvények|Definiálja a cosinus függvényt!
 elemi függvények|Definiálja a cosinus hiperbolicus függvényt!
 elemi függvények|Definiálja a sinus függvényt!
@@ -30,12 +32,14 @@ elemi függvények|Definiálja az $\ln$ függvényt és adja meg a differenciál
 elemi függvények|Definiálja az exponenciális függvényt!
 elemi függvények|Milyen kapcsolat van a hiperbolikus függvények és az exponenciális függvény között?
 elemi függvények|Mit jelent, hogy egy függvény $p$ szerint periodikus?
+folytonosság|Definiálja a megszüntethető szakadás fogalmát!
 folytonosság|Fogalmazza meg a folytonosság és műveletek kapcsolatára vonatkozó állítást!
 folytonosság|Fogalmazza meg az átviteli elvet valós függvények esetén!
 folytonosság|Írja le a folytonosság és műveletek kapcsolatára vonatkozó tételt!
 folytonosság|Írja le a határértékek és folytonosság kapcsolatára vonatkozó tételt!
 folytonosság|Írja le az összetett függvény folytonosságára vonatkozó tételt!
 folytonosság|Mikor folytonos egy valós függvény?
+folytonosság|Milyen kapcsolatban áll a kompaktság és az összefüggőseg a folytonossággal?
 folytonosság|Mit jelent az, hogy egy valós függvény egyenletesen folytonos egy halmazon?
 függvények határértéke|Írja le a függvények határértékének és folytonosságának a kapcsolatára vonatkozó tételt!
 függvények határértéke|Írja le a határérték és műveletek kapcsolatára vonatkozó tételt függvények esetén!
@@ -52,6 +56,7 @@ függvénysorok|Mit állít a Weierstrass-kritérium függvénysorok egyenletes 
 függvénysorok|Mit állít Weierstrass approximációs tétele?
 függvénysorok|Mit értünk egy függvénysorozat konvergenciahalmazán?
 függvénysorok|Mit mond ki a Cauchy-féle konvergenciakritérium függvénysorok pontonkéni konvergenciájára?
+függvénysorok|Mit nevezünk függvénysornak?
 függvénysorozatok|Mikor konvergens egy függvénysorozat?
 függvénysorozatok|Mikor mondjuk, hogy egy függvénysorozat konvergens?
 függvényvizsgálat|Fogalmazza meg a lokális szélsőérték szükséges feltételét! Példán keresztül mutassa meg, hogy ez a feltétel nem elégséges!
@@ -89,6 +94,7 @@ Riemann-integrál|Mit értünk alsó és felső integrálközelítő összegen?
 Riemann-integrál|Mit értünk egy felosztás finomításán?
 Riemann-integrál|Mit értünk egy intervallum $P$ felosztásán?
 Riemann-integrál|Mondja ki a függvények Riemann-integrálhatóságára vonatkozó oszcillációs kritériumot!
+Riemann-integrál|Soroljon fel két olyan feltételt, melynek (külön-külön való) teljesülése esetén egy függvény Riemann-integrálható!
 sorok|Fogalmazza meg a Cauchy-féle gyökkritériumot!
 sorok|Fogalmazza meg a Cauchy-féle ritkítási kritériumot valós számsorokra!
 sorok|Fogalmazza meg a D'Alambert-féle hányadoskritériumot valós számsorokra!
@@ -101,15 +107,17 @@ sorozatok|Fogalmazza meg a Cauchy-féle konvergenciakritériumot valós számsor
 sorozatok|Fogalmazza meg a Rendőr-elvet!
 sorozatok|Igaz-e, hogy ha egy valós számsorozat korlátos, akkor konvergens is? (Indokolja, mutasson példát!)
 sorozatok|Létezik-e olyan korlátos valós számsorozat, amelynek nem létezik konvergens részsorozata? (Hozzon példát vagy hivatkozzon egy tételre!)
+sorozatok|Mi a harmonikus sor?
 sorozatok|Mikor mondjuk, hogy egy sorozat $+\infty$-hez divergál?
 sorozatok|Mikor mondjuk, hogy egy sorozat $-\infty$-hez divergál?
 sorozatok|Mikor mondjuk hogy egy valós számsorozat konvergens?
 sorozatok|Mikor monoton egy valós számsorozat?
 sorozatok|Mikor nevezünk egy valós számsorozatot korlátosnak?
+sorozatok|Mit értünk azon, hogy egy valós számsorozat Cauchy-sorozat?
 sorozatok|Mit értünk egy valós számsorozat részsorozatán?
 sorozatok|Mit értünk geometriai sorozat alatt?
 sorozatok|Mondja ki a jeltartás tételét sorozatokra!
-sorozatok|Mondja ki a konvergencia és műveletek kapcsolatára vonatkozó tételt!
+sorozatok|Mondja ki a sorozatok konvergenciája és a műveletek kapcsolatára vonatkozó tételt!
 topológia|Mikor mondjuk, hogy egy $D$ halmaz kompakt?
 topológia|Mikor mondjuk, hogy egy $D$ halmaz összefüggő?
 topológia|Mit értünk egy $D$ halmaz izolált pontján?
