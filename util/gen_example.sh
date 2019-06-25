@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 gen_example() {
-	for i in $(seq 1 5)
+	for i in $(seq 1 10)
 	do
 		python3 ./generate.py -q -s
 	done
