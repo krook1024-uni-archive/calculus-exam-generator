@@ -3,7 +3,7 @@ differenciálszámítás|Adja meg a differenciálhatóság és a műveletek kapc
 differenciálszámítás|Adja meg a Lagrange-féle középértéktételt!
 differenciálszámítás|Adja meg a Riemann-féle átrendezési tételt sorokra!
 differenciálszámítás|Definíció alapján mutassa meg, hogy az $x^2$ függvény minden $x \in \mathbb{R}$ pontban differenciálható!
-differenciálszámítás|Deriválja a $x \mapsto x^a (x>0, a \in \mathbb{R}, x \mapsto a^x (x \in \mathbb{R}, a > 0)$, $\sinh$ és $\cosh$ függvényeket!
+differenciálszámítás|Deriválja a $x \mapsto x^a (x>0, a \in \mathbb{R}),\ x \mapsto a^x (x \in \mathbb{R}, a > 0)$, $\sinh$ és $\cosh$ függvényeket!
 differenciálszámítás|Igaz-e, hogy ha egy függvény differenciálható egy $x_0$ pontban akkor itt lineárisan approximálható is?
 differenciálszámítás|Írja a pontbeli differenciahányados definícióját!
 differenciálszámítás|Írja le a differenciálhatóság és folytonosság kapcsolatára vonatkozó állítást!
