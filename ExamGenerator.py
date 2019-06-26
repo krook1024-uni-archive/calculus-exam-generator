@@ -60,19 +60,25 @@ class ExamGenerator:
 
             self.c[category] = self.c[category] + 1
 
+        # Only sort if it's actually needed
+        if not self.quiet or self.stats:
+            sorted_c = sorted(self.c.items(), key=lambda x: x[1], reverse=True)
+
         if not self.quiet:
             print("A generált dokumentum feladatai a következő témakörökből "
                     "valók:")
-            for i in self.c.keys():
-                if self.c[i] > 0:
-                    print("-", i + ":", self.c[i], "példa")
+            for i, j in sorted_c:
+                if j > 0:
+                    print("-", i + ":", j, "példa")
 
         stats_str = ""
         if self.stats:
             stats_str += r'''\footnotesize\textit{('''
-            for i in self.c.keys():
-                if self.c[i] > 0:
-                    stats_str += (i + ": " + str(self.c[i]) + ", ")
+
+            for i, j in sorted_c:
+                if j > 0:
+                    stats_str += str(i) + ": " + str(j) + ", "
+
             stats_str = stats_str[:-2]
             stats_str += r''')}
             '''
