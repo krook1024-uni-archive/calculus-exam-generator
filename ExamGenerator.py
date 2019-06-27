@@ -9,13 +9,14 @@ import datetime
 import sys
 
 class ExamGenerator:
-    def __init__(self, q, n, c, quiet, stats, pprint):
+    def __init__(self, q, n, c, quiet, stats, pprint, hard):
         self.q = q
         self.n = n
         self.c = c
         self.quiet = quiet
         self.stats = stats
         self.pprint = pprint
+        self.hard = hard
 
     def gen_exam(self):
         header = r'''
@@ -51,7 +52,27 @@ class ExamGenerator:
         footer = r'''
         \end{document}'''
 
-        r = random.sample(self.q, self.n)
+        r = 0
+
+        if len(self.q) < self.n:
+            r = random.sample(self.q, len(self.q))
+        else:
+            r = random.sample(self.q, self.n)
+
+
+        # Delete questions we've already seen in hard-mode
+        if self.hard:
+            for l in r:
+                question = str(l[1])
+                category = str(l[0])
+                with open("q_hard.txt", "r+") as g:
+                    d = g.readlines()
+                    g.seek(0)
+                    for i in d:
+                        if i.strip("\n") != (category + "|" + question.strip("\n")):
+                            g.write(i)
+                    g.truncate()
+
         for l in r:
             question = str(l[1])
             category = str(l[0])

@@ -37,10 +37,10 @@ def main():
         filename = "q_hard.txt"
 
     with open(filename, "r") as f:
-        for line in f:
-            line = line.split("|")
-            category = line[0]
-            question = str(line[1])
+        lines = f.readlines()
+        for line in lines:
+            category = line.split("|")[0]
+            question = str(line.split("|")[1])
             q.append([category, question])
 
             # If we see a category we haven't yet, add it to
@@ -48,8 +48,10 @@ def main():
             if category not in c:
                 c[category] = 0
 
+
+
     # Initialize the exam generator class
-    gen = eg.ExamGenerator(q, n, c, quiet, stats, pprint)
+    gen = eg.ExamGenerator(q, n, c, quiet, stats, pprint, hard)
     gen.gen_exam()
 
 main()
