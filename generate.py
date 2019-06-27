@@ -17,16 +17,26 @@ def main():
             help='show statistics in the generated test')
     parser.add_argument('-p', '--print', dest='pprint', action='store_true',
             help='send the generated test to the printer')
-    parser.set_defaults(n=16, quiet=False, stats=False, pprint=False)
+    parser.add_argument('-H', '--hard', dest='hard', action='store_true',
+            help='only include "harder" questions')
+    parser.set_defaults(n=16, quiet=False, stats=False, pprint=False,
+            hard=False)
 
     args = parser.parse_args()
     n = args.n              # The number of exercises in a test
     stats = args.stats      # Show statistics or don't
     quiet = args.quiet      # Print messages or don't
     pprint = args.pprint    # Print the generated exam or don't
+    hard = args.hard        # Hard-mode
 
     # Read the questions from q.txt
-    with open("q.txt", "r") as f:
+
+    filename = "q.txt"
+
+    if hard:
+        filename = "q_hard.txt"
+
+    with open(filename, "r") as f:
         for line in f:
             line = line.split("|")
             category = line[0]

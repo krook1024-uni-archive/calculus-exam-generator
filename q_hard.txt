@@ -1,12 +1,5 @@
-differenciálszámítás|Adja meg a $\sin, \cos, \tan, \exp$ függvények derivált függvényeit!
-differenciálszámítás|Adja meg a differenciálhatóság és a műveletek kapcsolatáról szóló állítást!
 differenciálszámítás|Adja meg a Lagrange-féle középértéktételt!
 differenciálszámítás|Adja meg a Riemann-féle átrendezési tételt sorokra!
-differenciálszámítás|Definíció alapján mutassa meg, hogy az $x^2$ függvény minden $x \in \mathbb{R}$ pontban differenciálható!
-differenciálszámítás|Deriválja a $x \mapsto x^a (x>0, a \in \mathbb{R}),\ x \mapsto a^x (x \in \mathbb{R}, a > 0),\ \sinh$ és $\cosh$ függvényeket!
-differenciálszámítás|Igaz-e, hogy ha egy függvény differenciálható egy $x_0$ pontban akkor itt lineárisan approximálható is?
-differenciálszámítás|Írja a pontbeli differenciahányados definícióját!
-differenciálszámítás|Írja le a differenciálhatóság és folytonosság kapcsolatára vonatkozó állítást!
 differenciálszámítás|Írja le az összetett függvény differenciálási szabályát!
 differenciálszámítás|Mikor mondjuk, hogy egy függvény $n$-szer differenciálható? ($n=2,3,...$)
 differenciálszámítás|Mikor mondjuk, hogy egy függvény akárhányszor differenciálható egy pontban?
@@ -20,21 +13,13 @@ differenciálszámítás|Mondja ki a Rolle-féle középértéktételt!
 differenciálszámítás|Mondja ki a Taylor-tételt!
 differenciálszámítás|Mondja ki az integrálszámítás alaptételét!
 differenciálszámítás|Mondja ki az inverz függvény differenciálhatóságára vonatkozó tételt!
-egyéb|Mit nevezünk bővített valós számnak?
 elemi függvények|Adja meg a trigonometrikus függvényekre vonatkozó addíciós formulákat!
-elemi függvények|Definiálja a cosinus függvényt!
-elemi függvények|Definiálja a cosinus hiperbolicus függvényt!
-elemi függvények|Definiálja a sinus függvényt!
-elemi függvények|Definiálja a sinus hiperbolicus függvényt!
-elemi függvények|Definiálja az $e$ számot!
 elemi függvények|Definiálja az $\ln$ függvényt és adja meg a differenciálhatósági és monotonitási tulajdonságait!
 elemi függvények|Definiálja az exponenciális függvényt!
 elemi függvények|Milyen kapcsolat van a hiperbolikus függvények és az exponenciális függvény között?
 elemi függvények|Mit jelent, hogy egy függvény $p$ szerint periodikus?
 folytonosság|Definiálja a megszüntethető szakadás fogalmát!
-folytonosság|Fogalmazza meg a folytonosság és műveletek kapcsolatára vonatkozó állítást!
 folytonosság|Fogalmazza meg az átviteli elvet valós függvények esetén!
-folytonosság|Írja le a folytonosság és műveletek kapcsolatára vonatkozó tételt!
 folytonosság|Írja le a határértékek és folytonosság kapcsolatára vonatkozó tételt!
 folytonosság|Írja le az összetett függvény folytonosságára vonatkozó tételt!
 folytonosság|Mikor folytonos egy valós függvény?
@@ -60,20 +45,19 @@ függvénysorozatok|Mikor konvergens egy függvénysorozat?
 függvénysorozatok|Mikor mondjuk, hogy egy függvénysorozat konvergens?
 függvényvizsgálat|Fogalmazza meg a lokális szélsőérték szükséges feltételét! Példán keresztül mutassa meg, hogy ez a feltétel nem elégséges!
 függvényvizsgálat|Írja le a lokális szélsőérték elégséges feltételét!
-függvényvizsgálat|Mi az inflexiós pont elégséges illetve szükséges feltétele?
+függvényvizsgálat|Mi az inflexiós pont elégséges feltétele?
+függvényvizsgálat|Mi az inflexiós pont szükséges feltétele?
 függvényvizsgálat|Mikor mondjuk, hogy egy függvény konkáv?
 függvényvizsgálat|Mikor mondjuk, hogy egy függvény konvex?
 függvényvizsgálat|Mikor monoton egy $f$ függvény?
 függvényvizsgálat|Mit értünk inflexiós pont alatt?
 függvényvizsgálat|Mondja ki a Bolzano-féle középértéktételt!
 függvényvizsgálat|Mondja ki a Darboux-féle középértéktételt!
-határozatlan integrál|Adja meg a $\log, \cos, \sin, \tanh$ függvények primitív függvényeit!
 határozatlan integrál|Fogalmazza meg a helyettesítéses integrálás tételét határozatlan integrál esetén!
 határozatlan integrál|Írja le a határozatlan integrál linearitására vonatkozó tételt!
 határozatlan integrál|Írja le a Newton--Leibniz formulát!
 határozatlan integrál|Írja le a parciális integrálás tételét határozatlan integrál esetén!
 határozatlan integrál|Mit jelent, hogy az $f$ valós függvény racionális törtfüggvény?
-határozatlan integrál|Mit jelent, hogy az $f$ valós függvény valódi racionális törtfüggvény?
 határozatlan integrál|Mondja ki a Riemann-integrálra vonatkozó középértéktételt!
 hatványsorok|Mit nevezünk egy hatványsor konvergenciasugarának?
 hatványsorok|Mondja ki a Cauchy--Hadamard tételt!
@@ -81,8 +65,6 @@ hatványsorok|Mondja ki a hatványsorok differenciálhatóságára vonatkozó t�
 improprius integrál|Mit állít az improprius integrálokra vonatkozó összehasonlító kritérium?
 Riemann-integrál|Fogalmazza meg a helyettesítéses integrálás tételét Riemann-integrál esetén!
 Riemann-integrál|Fogalmazza meg a Riemann-integrál linearitására vonatkozó tételt!
-Riemann-integrál|Igaz-e, hogy ha egy függvény folytonos, akkor Riemann-integrálható?
-Riemann-integrál|Igaz-e, hogy ha egy függvény monoton, akkor Riemann-integrálható?
 Riemann-integrál|Írja le a forgástestek térfogatára vonatkozó képletet!
 Riemann-integrál|Írja le a görbék ívhosszára vonatkozó képletet!
 Riemann-integrál|Írja le a parciális integrálás tételét Riemann-integrál esetén!
@@ -96,25 +78,16 @@ Riemann-integrál|Mondja ki a függvények Riemann-integrálhatóságára vonatk
 Riemann-integrál|Soroljon fel két olyan feltételt, melynek (külön-külön való) teljesülése esetén egy függvény Riemann-integrálható!
 sorok|Fogalmazza meg a Cauchy-féle gyökkritériumot!
 sorok|Fogalmazza meg a Cauchy-féle ritkítási kritériumot valós számsorokra!
-sorok|Fogalmazza meg a D'Alambert-féle hányadoskritériumot valós számsorokra!
-sorok|Fogalmazza meg a Leibniz-kritériumot alternáló sorokra!
-sorok|Fogalmazza meg az összehasonlító kritériumot sorokra!
 sorok|Mit értünk egy sor átrendezésén?
 sorok|Mit értünk egy sor csoportosított során?
-sorok|Mit jelent, hogy egy valós sor abszolút konvergens?
 sorozatok|Fogalmazza meg a Cauchy-féle konvergenciakritériumot valós számsorozatokra!
 sorozatok|Fogalmazza meg a Rendőr-elvet!
-sorozatok|Igaz-e, hogy ha egy valós számsorozat korlátos, akkor konvergens is? (Indokolja, mutasson példát!)
-sorozatok|Létezik-e olyan korlátos valós számsorozat, amelynek nem létezik konvergens részsorozata? (Hozzon példát vagy hivatkozzon egy tételre!)
 sorozatok|Mi a harmonikus sor?
-sorozatok|Mikor mondjuk, hogy egy sorozat $+\infty$-hez divergál?
-sorozatok|Mikor mondjuk, hogy egy sorozat $-\infty$-hez divergál?
 sorozatok|Mikor mondjuk hogy egy valós számsorozat konvergens?
 sorozatok|Mikor monoton egy valós számsorozat?
 sorozatok|Mikor nevezünk egy valós számsorozatot korlátosnak?
 sorozatok|Mit értünk azon, hogy egy valós számsorozat Cauchy-sorozat?
 sorozatok|Mit értünk egy valós számsorozat részsorozatán?
-sorozatok|Mit értünk geometriai sorozat alatt?
 sorozatok|Mondja ki a jeltartás tételét sorozatokra!
 sorozatok|Mondja ki a sorozatok konvergenciája és a műveletek kapcsolatára vonatkozó tételt!
 topológia|Mikor mondjuk, hogy egy $D$ halmaz kompakt?
@@ -125,4 +98,3 @@ topológia|Mit értünk egy $x_0$ pont $r$ sugarú nyílt, illetve zárt környe
 topológia|Mit értünk egy valós számsorozat torlódási pontján?
 topológia|Mit értünk nyílt és zárt számhalmaz alatt?
 topológia|Mit jelent egy valós számhalmaz nyílt lefedése?
-topológia|Mondja ki a Heine--Borel-tételt!
