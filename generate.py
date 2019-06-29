@@ -52,4 +52,5 @@ def main():
     gen = eg.ExamGenerator(q, n, c, quiet, stats, pprint)
     gen.gen_exam()
 
-main()
+if __name__ == '__main__':
+    main()
